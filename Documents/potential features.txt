@@ -1,0 +1,82 @@
+Potential features for a linear regressor model that estimates the 
+value for USD currency in the next four hours/ time interval in which forex
+market prices are updated.
+
+signed difference in value between now and last 4 hours
+signed difference in value between now and last 8 hours
+signed difference in value between now and last 16 hours
+signed difference in value between now and last 20 hours
+signed difference in value between now and last 24 hours
+
+Could extend further:
+signed difference in value between now and current weekly average
+signed difference in value between now and last 1 week
+signed difference in value between now and last 2 week
+signed difference in value between now and last 3 week
+signed difference in value between now and last 1 month's average
+fluctuations - a day's atart and end value
+
+Could add external variables:
+news article/ keyword search
+(research how each primary central banks determine currency value)
+	- what a future increase in interest rates mean
+	- how banks evaluate ecnomic stability and growth
+how interest rates change- not necessarily about which country has
+	the higher interest rate, but which country's interest rates
+	and fall
+
+Major Central Banks:
+1. The Federal Reserve
+	- Federal Open Market Committee decides on interest rates
+	- Mandate - Long-term price stability and sustainable growth
+	- Frequency of Meeting - 8 times a year. When?
+2. European Central Bank	
+	- warns press before it makes changes to interest rates
+	- will take actions to secure strength of european export
+		by purposely weakening the Euro to encourage 
+		entities to buy import goods from Europe while
+		price is low
+	- meets bi-weekly but policy decisions are made at meetings
+		with an accompanying press conference, which occurs
+		11 times a year
+3. Bank of England
+	- most effective bank? effective in doing what?
+	- wants to maintain strength of Euro through increasing
+		and curbing inflation. It's inflation target is 2%
+		curbs when it reaches 2%, boost when it is lower
+	- meets monthly
+4. Bank of Japan
+	- Extremely interested in securing Japanese export economy.
+		They do this by selling their currency in order to
+		weaken it and essentially lower the value of the currency.
+		This encourages entities in the market to buy goods from
+		Japan while the price is low. Purposely inflates?
+	- Apparently extremely vocal when it feels concerned about
+		having too strong of a currency. It hints when it is about
+		to weaken it on purpose?
+	- meets once or twice a month
+5. Swiss National Bank
+	- determines interest rate bands instead of a target rate
+	- export dependent. wants to keep cost of currency low
+	 	in order to enourage countries to buy from tham.
+		- More likely to fall when it reaches a certain point?
+	- meets quarterly. 4 times a year?
+6. Bank of Canada
+	- monetary policy decisions made by Governing Council
+	- wants to keep inflation target of 1-3%
+	- meets 8 times a year
+7. Reserve Bank of Australia
+	- To ensure stability of currency, maintenance of full employment 
+		and economic prosperity and welfare of the people of Australia. 
+		The central bank has an inflation target of 2-3% per year.
+	- 11 times/year. first tuesday of every month besides January
+8. Reserve bank of New Zealand
+	- central bank governor makes all decisions. Follow him on twitter?
+	- focuses hard on keeping taget inflation rate of 1.5%
+	- meets 8 times a year
+
+Inflation is measured by Consumer Price Index
+
+			
+
+

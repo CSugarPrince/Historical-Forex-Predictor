@@ -1,0 +1,5 @@
+Fixer.io
+33812a4991adfc761da5f7e6ca032921
+
+Oanda Demo Account API key:
+9fc6000e1a271d3686b000f0f44d293c-e703eb7334a32c4dc95ab66beb9ddc39
