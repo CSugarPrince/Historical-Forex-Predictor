@@ -63,7 +63,7 @@ def get_fixer_historical_rates(date_string):
         # return None if an error occured and the request failed 
         return None
 
-
+# this function is not used:
 def get_fixer_time_series(start_date, end_date):
     """ NO BUENO!!!: requests historical data for every day from start date to end date. params should be date strings 'YYYY-MM-DD' """
     

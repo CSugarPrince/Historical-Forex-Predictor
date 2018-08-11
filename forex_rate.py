@@ -14,7 +14,7 @@ class ForexRate(object):
         'http://data.fixer.io/api/'
         'https://openexchangerates.org/api/'
         """
-        self.base = data_dict['base']                # the base should be USD by default
+        self.base = data_dict['base']                
         self.timestamp = data_dict['timestamp']
         self.date = data_dict['date']
         self.USD = data_dict['rates']['USD']

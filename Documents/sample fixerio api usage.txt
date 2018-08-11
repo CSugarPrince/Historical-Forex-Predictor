@@ -210,6 +210,7 @@ http://data.fixer.io/api/2013-03-16?access_key=33812a4991adfc761da5f7e6ca032921&
   }
 }
 
+fixer.io 
 sample error message: I don't have acces to change base functionality
 {'success': False, 'error': {'code': 105, 'type': 'base_currency_access_restricted'}}
 

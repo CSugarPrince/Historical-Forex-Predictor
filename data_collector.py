@@ -92,7 +92,8 @@ class DownloadWorker(threading.Thread):
 
 
 def create_date_queue(start_date, end_date):
-    """ creates a queue a dates that starts at the start_date, increments by a day until it reaches end_date """
+    """ creates a queue a dates that starts at the start_date, increments by a day until it reaches end_date.
+        argument format: 'YYYY-MM-DD'. Returns queue of date strings """
 
     # convert date strings into date objects
     start_date = datetime.datetime.strptime(start_date,'%Y-%m-%d').date()

@@ -99,6 +99,7 @@ def create_db():
                     CHF integer
                     )""")
 
+    # conn.close() ???
 
 
 if __name__ == "__main__":
